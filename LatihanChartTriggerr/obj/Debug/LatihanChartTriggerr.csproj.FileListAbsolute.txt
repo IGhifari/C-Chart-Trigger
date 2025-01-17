@@ -1,0 +1,12 @@
+C:\Users\msi gf63\source\repos\LatihanChartTriggerr\LatihanChartTriggerr\bin\Debug\Database1.mdf
+C:\Users\msi gf63\source\repos\LatihanChartTriggerr\LatihanChartTriggerr\bin\Debug\Database1_log.ldf
+C:\Users\msi gf63\source\repos\LatihanChartTriggerr\LatihanChartTriggerr\bin\Debug\LatihanChartTriggerr.exe.config
+C:\Users\msi gf63\source\repos\LatihanChartTriggerr\LatihanChartTriggerr\bin\Debug\LatihanChartTriggerr.exe
+C:\Users\msi gf63\source\repos\LatihanChartTriggerr\LatihanChartTriggerr\bin\Debug\LatihanChartTriggerr.pdb
+C:\Users\msi gf63\source\repos\LatihanChartTriggerr\LatihanChartTriggerr\obj\Debug\LatihanChartTriggerr.csproj.AssemblyReference.cache
+C:\Users\msi gf63\source\repos\LatihanChartTriggerr\LatihanChartTriggerr\obj\Debug\LatihanChartTriggerr.Form1.resources
+C:\Users\msi gf63\source\repos\LatihanChartTriggerr\LatihanChartTriggerr\obj\Debug\LatihanChartTriggerr.Properties.Resources.resources
+C:\Users\msi gf63\source\repos\LatihanChartTriggerr\LatihanChartTriggerr\obj\Debug\LatihanChartTriggerr.csproj.GenerateResource.cache
+C:\Users\msi gf63\source\repos\LatihanChartTriggerr\LatihanChartTriggerr\obj\Debug\LatihanChartTriggerr.csproj.CoreCompileInputs.cache
+C:\Users\msi gf63\source\repos\LatihanChartTriggerr\LatihanChartTriggerr\obj\Debug\LatihanChartTriggerr.exe
+C:\Users\msi gf63\source\repos\LatihanChartTriggerr\LatihanChartTriggerr\obj\Debug\LatihanChartTriggerr.pdb
